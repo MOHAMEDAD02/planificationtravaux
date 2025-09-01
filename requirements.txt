@@ -3,9 +3,8 @@ pandas
 numpy 
 datetime 
 pulp
-plotly.express 
-plotly.graph_objects 
-plotly.subplots 
+plotly
 make_subplots
 logging
 io
+
